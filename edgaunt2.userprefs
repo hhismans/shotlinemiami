@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/charactercontroler.cs">
+    <Files>
+      <File FileName="Assets/script/Weapon.cs" Line="90" Column="3" />
+      <File FileName="Assets/script/enemyAI.cs" Line="37" Column="3" />
+      <File FileName="Assets/script/charactercontroler.cs" Line="43" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
